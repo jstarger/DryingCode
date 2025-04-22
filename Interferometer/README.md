@@ -20,12 +20,12 @@ Ross A. Kerner, Kai Zhu, Joseph J. Berry, Nicolas J. Alvarez, Richard A. Cairncr
 
 ## Support
 
-For support, please contact E. Ashley Gaulding (ashley [dot] gaulding [at] nrel [dot] gov).
+For support, please contact E. Ashley Gaulding (ashley.gaulding@nrel.gov).
 For questions regarding the original publication,
 
-Lead contact: Axel F. Palmstrom (axel [dot] palmstrom [at] nrel [dot] gov).
+Lead contact: Axel F. Palmstrom (axel.palmstrom@nrel.gov).
 
-Additional Correspondence: Nicolas J. Alvarez (alvarez [at] drexel [dot] edu)
+Additional Correspondence: Nicolas J. Alvarez (alvarez@drexel.edu)
 
 
 ## Acknowledgements

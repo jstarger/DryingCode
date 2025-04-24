@@ -38,7 +38,7 @@ file_name = 'mapbi4_protocol_confocalDT-IFC2421_2024-08-20_16-04-41_811_time0-12
 data = pd.read_csv(file_name, header=0, skiprows=1, skipfooter=0)
 
 raw_data = 'mapbi4_protocol_confocalDT-IFC2421_2024-08-20_16-04-41.811.csv'
-rawdata = pd.read_csv(raw_data, sep=';', header=0, skiprows=10, skipfooter=0)
+rawdata = pd.read_csv(raw_data, encoding='Windows-1252', sep=';', header=0, skiprows=10, skipfooter=0)
 rawdata = rawdata.to_numpy()
 
 # %% Split path to get file name

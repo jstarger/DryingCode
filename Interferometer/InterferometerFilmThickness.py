@@ -91,7 +91,7 @@ def file_loader(path=None):
         path = select_file()
     
     # get abscissa (UPDATE TO APPROPRIATE DIRECTORY WHERE SAVED ON GIVEN COMPUTER)
-    x_pth = os.getcwd()+'\spectrometer_abcissa.csv'
+    x_pth = os.getcwd()+'\spectrometer_abcissa.csv' #If on mac, change '\' to '/' to specify correct file in working directory
     x_vals = pd.read_csv(x_pth, header=None, names=['wavelength'])
     col_names = ['zeros'] + list(x_vals.wavelength)
     
